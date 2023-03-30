@@ -1,6 +1,6 @@
 # deeplearning-assignment-8
 
-video link : https://drive.google.com/drive/folders/10LmwB516RvbbFlmAW3iq3GF_zpIil7sg?usp=share_link
+video link :  https://drive.google.com/drive/folders/10LmwB516RvbbFlmAW3iq3GF_zpIil7sg?usp=share_link
 
 DESCRIPTION:
 cells": [
